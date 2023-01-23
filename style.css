@@ -1,0 +1,47 @@
+body
+{
+  background-size: cover;
+  background-position: center;
+}
+
+input
+{
+  border: 5px solid black;
+  border-radius: 5px;
+  margin: 5px;
+  width: 20%;
+  color: gray;
+  background-color: white;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+ 
+
+#start, #status, #no_of_objects
+{
+   font-size: 18px;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 138px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color:aqua;
+    width: 100%;
+    bottom: 0;
+    background-color: black;
+    text-align: center;
+    line-height: 2;
+}
